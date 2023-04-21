@@ -8,6 +8,7 @@ The design architecture  follows a crud best practice, thus all functional parts
 
 ### Open the terminal and type the following commands
 ## Setup
+<pre>
 <code>clone this repository</code>
 <code>composer install</code>
 <code>npm install</code>
@@ -15,4 +16,5 @@ The design architecture  follows a crud best practice, thus all functional parts
 <code>cp .env.example .env</code>
 <code>php artisan key:generate</code>
 <code>php artisan serve</code>
+</pre>
 
