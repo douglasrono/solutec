@@ -1,0 +1,13 @@
+.sidebar{
+    width: 400px;
+    background: rgba(34, 33, 33, 0.699);
+    position: fixed;
+    height: 100%;
+}
+
+.topbar{
+    width: 400px;
+    background: rgba(34, 33, 33, 0.699);
+    position: fixed;
+    height: 100%;
+}
